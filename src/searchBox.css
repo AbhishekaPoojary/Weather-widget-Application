@@ -1,0 +1,9 @@
+.searchBox {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    text-align: center;
+    flex-direction: column;
+
+}
+
